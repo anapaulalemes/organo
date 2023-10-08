@@ -5,7 +5,7 @@ const Rodape = () => {
         <section>
             <ul>
                 <li>
-                    <a href="https://instagram.com/anapaulalemes" target="_blank">
+                    <a href="https://instagram.com/anapaula._lemes" target="_blank">
                         <img src="/imagens/ig.png" alt="" />
                     </a>
                 </li>
